@@ -1,9 +1,0 @@
-{
-	"tabWidth": 4,
-	"useTabs": true,
-	"semi": true,
-	"trailingComma": "all",
-	"singleQuote": true,
-	"proseWrap": "always",
-	"plugins": ["prettier-plugin-organize-imports"]
-}
