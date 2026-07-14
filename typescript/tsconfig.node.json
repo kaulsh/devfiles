@@ -17,7 +17,10 @@
     "strictNullChecks": true,
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
-    "rewriteRelativeImportExtensions": true
+    "rewriteRelativeImportExtensions": true,
+    "exactOptionalPropertyTypes": true,
+    "noUncheckedIndexedAccess": true,
+    "noPropertyAccessFromIndexSignature": true
   },
   "exclude": ["node_modules"],
   "include": ["src", "global.d.ts", "thirdparty.d.ts"]
