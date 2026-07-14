@@ -7,7 +7,7 @@ The below layout displays the location of important configurations required for 
 ```txt
 etc 
 ├── nginx
-│   ├── sites-enabled
+│   ├── conf.d
 │   │   └── domain.tld.conf
 |   |   └── ... and more
 │   └── ssl
