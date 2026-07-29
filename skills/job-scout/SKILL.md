@@ -1,6 +1,6 @@
 ---
 name: job-scout
-description: Research companies matching a free-text hiring/stage description (e.g. funding stage signals, seniority, role type) via web search — never job portals or LinkedIn scraping — and compile results into a Google Sheet with career-page/role links, evidence, and a confidence rationale for any fuzzy criteria. Reusable across sessions: pass an existing Sheet URL to keep appending deduped rows, or omit it to create a new one. Use when the user wants to find companies to apply to based on a criteria description, asks to "find companies hiring for X," or invokes this skill directly.
+description: Research companies matching a free-text hiring/stage description (e.g. funding stage signals, seniority, role type) via web search — never job portals or LinkedIn scraping — and compile results into a Google Sheet with career-page/role links, evidence, and a confidence rationale for any fuzzy criteria. Reusable across sessions, pass an existing Sheet URL to keep appending deduped rows, or omit it to create a new one. Use when the user wants to find companies to apply to based on a criteria description, asks to "find companies hiring for X," or invokes this skill directly.
 ---
 
 # Job Scout
